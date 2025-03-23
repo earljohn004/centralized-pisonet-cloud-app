@@ -27,3 +27,5 @@ _.sln
 
 # Secret
 client_secret.json
+.env.local
+.env
